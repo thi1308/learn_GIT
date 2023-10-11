@@ -1,5 +1,5 @@
 Để đẩy code lên github 
-bước 1: gõ lệnh git init 
+  bước 1: gõ lệnh git init 
 bước 2: gõ lệnh git git remote add origin https://github.com/ten_nguoi_dung/ten_kho_luu_tru.git
 bước 3: gõ lệnh git remote -v( để xem đẫ kết nối repo chưa)
 bước 4: git add.(để lấy toàn bộ file hoặc lấy 1 vài file - phải có đường dẫn)
